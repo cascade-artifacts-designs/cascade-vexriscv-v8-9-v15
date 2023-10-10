@@ -1,0 +1,16 @@
+generated
+logs
+traces
+statistics
+Bender.lock
+results.txt
+fusesoc.conf
+build
+modelsim
+!*.json
+/*.json
+*.elf
+*.dump
+sw
+env.sh
+.core
